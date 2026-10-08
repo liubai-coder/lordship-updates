@@ -1,0 +1,7 @@
+*.exe
+*.pck
+*.zip
+*.pem
+*.key
+*.cfg
+server-data/
